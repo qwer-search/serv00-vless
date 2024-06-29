@@ -1,3 +1,5 @@
+## [部署新方法](https://github.com/eooce/nodejs-argo)
+
 # serv00-vless [注册serv00](https://www.serv00.com/)
 ## 使用方法：
 
